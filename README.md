@@ -5,6 +5,26 @@
 <img width="960" alt="Screenshot 2024-09-29 195158" src="https://github.com/user-attachments/assets/b3f47149-6284-4bdf-ba28-741cca84f70e">
 <img width="949" alt="Screenshot 2024-09-29 195141" src="https://github.com/user-attachments/assets/28385bef-3ff3-4633-a009-e1ba88e07cc4">
 
+# Description
+ 
+1. Home Page:
+   - Displays a welcoming message.
+   - Includes a button to view available products.
+   
+2. Products Page:
+   - Displays a list of products with details like price and name.
+   - Allows users to add products to the shopping cart.
+   - Shows a success message upon adding items to the cart.
+
+3. Cart Page:
+   - Displays the products added to the cart.
+   - Allows users to remove items from the cart.
+   
+Features:
+- Routing: The project uses `react-router-dom` to implement routing between the home, products, and cart pages.
+- State Management: The application manages state using React's `useState` hook.
+- Responsive Design: The application is styled with basic CSS to ensure a user-friendly interface, with the ability to scale content based on interactions.
+
 
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
